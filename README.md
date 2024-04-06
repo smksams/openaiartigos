@@ -1,6 +1,14 @@
+
+# Open AI Artigos
+
 Resuma artigos com chat gpt -4 inserindo o link do site.
 
-Para instalação:
+## Instalação
 
-npm install
-npm run dev
+Instale com npm
+
+```bash
+  npm install 
+  npm run dev
+```
+    
